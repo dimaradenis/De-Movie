@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+
+.navbar-container{
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    height: 100%;
+    color: white;
+    font-family: 'Sen', sans-serif;
+}
+
+.logo-container{
+    flex: 1;
+}
+
+.logo{
+    font-family: 'Sen', sans-serif;
+    font-size: 25px;
+}
+
+.menu-container{
+    flex: 6;
+}
+
+.menu-list{
+    display: flex;
+    list-style: none;
+}
+
+.menu-list-item{
+    margin-right: 30px;
+}
+
+.menu-list-item.active{
+    font-weight: bold;
+}
+
+.profile-container{
+    flex: 2;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.profile-text-container{
+    margin: 0 20px;
+}
+
+.profile-picture{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.container{
+    background-color: #151515;
+    min-height: calc(100vh - 50px);
+    color: white;
+}
+
+.content-container{
+    margin-left: 0px;
+}
+
+.featured-content{
+    height: 80vh;
+    padding: 50px;
+}
+
+.featured-title{
+    width: 700px;
+}
+
+.featured-desc{
+    font-family: 'Sen', sans-serif;
+    font-size: larger;
+    width: 650px;
+    color: lightgray;
+    margin-top: -100px;
+    margin-left: 57px;
+
+}
+
+.featured-button:hover{
+    background-color:rgb(61, 221, 61);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    transition: ease-in-out 1s;
+}
+
+.movie-list-container{
+    padding: 50px;
+}
+
+.movie-list{
+    display: flex;
+    align-items: center;
+    height: 400px;
+
+}
+
+.movie-list-item{
+    margin-right: 35px;
+}
+
+.movie-list-item:hover .movie-list-item-img{
+    transform: scale(1.1);
+}
+
+
+.movie-list-item-img{
+    border-radius: 15px;
+    width: 400px;
+    height: 240px;
+    object-fit: cover;
+    transition: all 1s ease-in-out;
+}
+
+.movie-list-item-title{
+    font-family: 'Sen', sans-serif;
+    font-weight: bolder;
+    height: fit-content;
+    margin-top: 20px;
+}
+
+.movie-list-item-desc{
+    margin-top: 5px;
+    font-family: 'Sen', sans-serif;
+    width: fit-content;
+    height: fit-content;
+}
