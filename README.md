@@ -3,7 +3,7 @@ De'Movie adalah salah satu layanan streaming film yang menyajikan berbagai konte
 \
 \
 \
-Kunjungi halaman [Github pages]() untuk melihat situs web. 
+Kunjungi halaman [Github pages](https://github.com/dimaradenis/De-Movie) untuk melihat situs web. 
 \
 \
 **Jangan lupa berkunjungi pada website kami , terima kasih.**
@@ -22,4 +22,4 @@ Kunjungi halaman [Github pages]() untuk melihat situs web.
 - Menyajikan berbagai jenis genre mulai dari film Indonesia , Western , Korea hingga Jepang
 - Tampilan yang menarik
 - Tersedia berbagai film yang dapat dipilih
-- Situs Web Langsung Dengan [halaman Github]()
+- Situs Web Langsung Dengan [halaman Github](https://github.com/dimaradenis/De-Movie)
