@@ -13,8 +13,8 @@ Kunjungi halaman [Github pages](https://github.com/dimaradenis/De-Movie) untuk m
 ## Pratinjau Situs Web
 ### Beranda
 ![Beranda](Asset/De'Movie1.png)
-![Beranda](Asset/De'Movie2.png)
 ![Beranda](Asset/De'Movie5.png)
+![Beranda](Asset/De'Movie2.png)
 ### Halaman Detail
 ![Halaman Detail](Asset/De'Movie3.png)
 ![Halaman Detail](Asset/De'Movie4.png)
